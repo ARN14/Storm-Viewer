@@ -7,7 +7,7 @@ class ViewController: UITableViewController {
 
 
     override func viewDidLoad() {
-        // This function sets title, sets size, and fetches pictures
+        // This function sets title, sets size, and fetches pictures from the file system
 
         super.viewDidLoad()
         
